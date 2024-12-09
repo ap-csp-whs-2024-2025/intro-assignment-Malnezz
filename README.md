@@ -13,3 +13,12 @@ Answer the questions below
 * Something interesting about me is
 * Ask Mr. Vu anything:
 * List your sports and extracurriculars you participate in
+
+#include <iostream>
+
+int main() {
+  std::cout << "I love not having pancakes for breakfast";
+  std::cout << "What's youre favorite programming language"; 
+  std::cout << "Badminton, The American Rocketry Challenge, Cyberpatriots"; 
+  return 0;
+}
